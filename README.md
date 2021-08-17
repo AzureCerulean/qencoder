@@ -52,7 +52,7 @@ Via pip:
 First, install ffmpeg, an up to date version of aomenc, and an up to date version of vpxenc. Then install qencoder.
 ```
 sudo apt update
-sudo apt install python-pip vpx-tools aom-tools ffmpeg
+sudo apt install python3-pip vpx-tools aom-tools ffmpeg
 pip install qencoder
 ```
 
